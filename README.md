@@ -19,6 +19,9 @@ A simple, interactive terminal-based calculator written in Python. It demonstrat
 ## Prerequisites & Execution
 
 You only need Python 3.x installed to run this script.
+## Live Demo
+👉 **[Click here to run the live Terminal Calculator](https://terminalcalcpy26.ai.studio)**
+
 
 ```bash
 python calculator.py
