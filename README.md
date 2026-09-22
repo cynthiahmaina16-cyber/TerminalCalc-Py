@@ -1,4 +1,4 @@
-# PyCalc-CLI
+# TerminalCalc-Py
 
 A simple, interactive terminal-based calculator written in Python. It demonstrates basic core programming fundamentals including continuous `while` loops, user input parsing, mathematical evaluations, and run-time error prevention.
 
